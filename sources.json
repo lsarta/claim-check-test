@@ -31,14 +31,5 @@
     "file": "captures/bea-trade-2026-07.txt",
     "captured_on": "2026-10-03",
     "sha256": "9c3ecd34ded2090a1069890ae6b4f158c3913447ed3486d92e667b576afa2cd9"
-  },
-  {
-    "id": "census-nrc-2026-08",
-    "title": "Monthly New Residential Construction, August 2026",
-    "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202608.pdf",
-    "method": "pasted",
-    "file": "captures/census-nrc-2026-08.txt",
-    "captured_on": "2026-10-04",
-    "sha256": "3e661844bf40b0c5d09bfe274620f0aa39bf1f6e0bd622d35d2ef412007e6b89"
   }
 ]
