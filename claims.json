@@ -62,5 +62,245 @@
     "value": "24.4",
     "unit": "percent",
     "quote": "The trade deficit jumped 24.4 percent in July."
+  },
+  {
+    "claim_id": "c9",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Building permits, August 2026",
+    "value": "1,394,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "authorized by building permits in August were at a seasonally adjusted annual rate of 1,394,000."
+  },
+  {
+    "claim_id": "c10",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Decline in building permits, July to August 2026",
+    "value": "2.7",
+    "unit": "percent",
+    "quote": "This is 2.7 percent below the revised July rate of 1,433,000"
+  },
+  {
+    "claim_id": "c11",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Building permits, July 2026 (revised)",
+    "value": "1,433,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "This is 2.7 percent below the revised July rate of 1,433,000"
+  },
+  {
+    "claim_id": "c12",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Increase in building permits, August 2025 to August 2026",
+    "value": "3.5",
+    "unit": "percent",
+    "quote": "but is 3.5 percent above the August 2025 rate of 1,347,000."
+  },
+  {
+    "claim_id": "c13",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Building permits, August 2025",
+    "value": "1,347,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "but is 3.5 percent above the August 2025 rate of 1,347,000."
+  },
+  {
+    "claim_id": "c14",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Single-family building permits, August 2026",
+    "value": "878,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "Single-family authorizations in August were at a rate of 878,000"
+  },
+  {
+    "claim_id": "c15",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Decline in single-family permits, July to August 2026",
+    "value": "1.8",
+    "unit": "percent",
+    "quote": "this is 1.8 percent below the revised July figure of 894,000."
+  },
+  {
+    "claim_id": "c16",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Single-family building permits, July 2026 (revised)",
+    "value": "894,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "this is 1.8 percent below the revised July figure of 894,000."
+  },
+  {
+    "claim_id": "c17",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Housing starts, August 2026",
+    "value": "1,275,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "Privately-owned housing starts in August were at a seasonally adjusted annual rate of 1,275,000."
+  },
+  {
+    "claim_id": "c18",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Decline in housing starts, July to August 2026",
+    "value": "2.6",
+    "unit": "percent",
+    "quote": "This is 2.6 percent (±12.0 percent)* below the revised July estimate of 1,309,000"
+  },
+  {
+    "claim_id": "c19",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Margin of error on the July-to-August change in housing starts",
+    "value": "12.0",
+    "unit": "percent (± margin of error)",
+    "quote": "This is 2.6 percent (±12.0 percent)* below the revised July estimate of 1,309,000"
+  },
+  {
+    "claim_id": "c20",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Housing starts, July 2026 (revised)",
+    "value": "1,309,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "This is 2.6 percent (±12.0 percent)* below the revised July estimate of 1,309,000"
+  },
+  {
+    "claim_id": "c21",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Decline in housing starts, August 2025 to August 2026",
+    "value": "1.2",
+    "unit": "percent",
+    "quote": "is 1.2 percent (±10.8 percent)* below the August 2025 rate of 1,291,000."
+  },
+  {
+    "claim_id": "c22",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Margin of error on the year-over-year change in housing starts",
+    "value": "10.8",
+    "unit": "percent (± margin of error)",
+    "quote": "is 1.2 percent (±10.8 percent)* below the August 2025 rate of 1,291,000."
+  },
+  {
+    "claim_id": "c23",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Housing starts, August 2025",
+    "value": "1,291,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "is 1.2 percent (±10.8 percent)* below the August 2025 rate of 1,291,000."
+  },
+  {
+    "claim_id": "c24",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Single-family housing starts, August 2026",
+    "value": "918,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "Single-family housing starts in August were at a rate of 918,000"
+  },
+  {
+    "claim_id": "c25",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Increase in single-family starts, July to August 2026",
+    "value": "7.6",
+    "unit": "percent",
+    "quote": "this is 7.6 percent (±14.0 percent)* above the revised July figure of 853,000."
+  },
+  {
+    "claim_id": "c26",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Margin of error on the July-to-August change in single-family starts",
+    "value": "14.0",
+    "unit": "percent (± margin of error)",
+    "quote": "this is 7.6 percent (±14.0 percent)* above the revised July figure of 853,000."
+  },
+  {
+    "claim_id": "c27",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Single-family housing starts, July 2026 (revised)",
+    "value": "853,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "this is 7.6 percent (±14.0 percent)* above the revised July figure of 853,000."
+  },
+  {
+    "claim_id": "c28",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Housing completions, August 2026",
+    "value": "1,128,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "Privately-owned housing completions in August were at a seasonally adjusted annual rate of 1,128,000."
+  },
+  {
+    "claim_id": "c29",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Decline in housing completions, July to August 2026",
+    "value": "11.9",
+    "unit": "percent",
+    "quote": "This is 11.9 percent (±9.7 percent) below the revised July estimate of 1,280,000"
+  },
+  {
+    "claim_id": "c30",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Margin of error on the July-to-August change in completions",
+    "value": "9.7",
+    "unit": "percent (± margin of error)",
+    "quote": "This is 11.9 percent (±9.7 percent) below the revised July estimate of 1,280,000"
+  },
+  {
+    "claim_id": "c31",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Housing completions, July 2026 (revised)",
+    "value": "1,280,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "This is 11.9 percent (±9.7 percent) below the revised July estimate of 1,280,000"
+  },
+  {
+    "claim_id": "c32",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Decline in housing completions, August 2025 to August 2026",
+    "value": "27.1",
+    "unit": "percent",
+    "quote": "is 27.1 percent (±8.9 percent) below the August 2025 rate of 1,548,000."
+  },
+  {
+    "claim_id": "c33",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Margin of error on the year-over-year change in completions",
+    "value": "8.9",
+    "unit": "percent (± margin of error)",
+    "quote": "is 27.1 percent (±8.9 percent) below the August 2025 rate of 1,548,000."
+  },
+  {
+    "claim_id": "c34",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Housing completions, August 2025",
+    "value": "1,548,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "is 27.1 percent (±8.9 percent) below the August 2025 rate of 1,548,000."
+  },
+  {
+    "claim_id": "c35",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Single-family housing completions, August 2026",
+    "value": "816,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "Single-family housing completions in August were at a rate of 816,000"
+  },
+  {
+    "claim_id": "c36",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Decline in single-family completions, July to August 2026",
+    "value": "10.4",
+    "unit": "percent",
+    "quote": "this is 10.4 percent (±9.3 percent) below the revised July rate of 911,000."
+  },
+  {
+    "claim_id": "c37",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Margin of error on the July-to-August change in single-family completions",
+    "value": "9.3",
+    "unit": "percent (± margin of error)",
+    "quote": "this is 10.4 percent (±9.3 percent) below the revised July rate of 911,000."
+  },
+  {
+    "claim_id": "c38",
+    "capture_id": "census-nrc-2026-08",
+    "subject": "Single-family housing completions, July 2026 (revised)",
+    "value": "911,000",
+    "unit": "housing units, seasonally adjusted annual rate",
+    "quote": "this is 10.4 percent (±9.3 percent) below the revised July rate of 911,000."
   }
 ]
